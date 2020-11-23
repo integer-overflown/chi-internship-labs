@@ -1,0 +1,1 @@
+add_executable(lab2 LB2.cpp List.h Pair.h)
